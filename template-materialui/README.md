@@ -1,6 +1,7 @@
 # Aplicação React de Gerenciamento de Projetos e Tarefas
 
 Projeto criado com as bibliotecas React JS e Material UI.
+Adicionada e configurada página de login na pasta src/pages e menu.js na pasta src/components de acordo com a aula 10
 
 ## Passo-a-passo para execução
 
